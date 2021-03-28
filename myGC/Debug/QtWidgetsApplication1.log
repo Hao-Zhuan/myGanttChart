@@ -1,0 +1,6 @@
+﻿  uic QtWidgetsApplication1.ui
+  QtWidgetsApplication1.cpp
+  main.cpp
+  progressdlg.cpp
+  moc_QtWidgetsApplication1.cpp
+  QtWidgetsApplication1.vcxproj -> C:\Users\china\Desktop\myGanttChart\QtWidgetsApplication1\Debug\QtWidgetsApplication1.exe
