@@ -1,7 +1,7 @@
 #include "QtWidgetsApplication1.h"
 #include <QtWidgets/QApplication>
 #include "progressdlg.h"
-
+class event{};
 int main(int argc, char *argv[])
 {
 
